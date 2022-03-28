@@ -1,0 +1,46 @@
+{
+    "foodList":[
+        {
+            "index":1,
+            "itemName":"Cheeseburger",
+            "imgUrl":"https://images.unsplash.com/photo-1603614550145-c7bb90bbfddf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+            "alt":"Cheeseburger image",
+            "time":"25 mins"
+        },
+        {
+            "index":2,
+            "itemName":"Pizza",
+            "imgUrl":"https://images.unsplash.com/photo-1589477500339-82aeb8718167?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "alt":"Pizza image",
+            "time":"20 mins"
+        },
+        {
+            "index":3,
+            "itemName":"Pasta",
+            "imgUrl":"https://images.unsplash.com/photo-1617474019977-0e105d1b430e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=362&q=80",
+            "alt":"Pasta image",
+            "time":"20 mins"
+        },
+        {
+            "index":4,
+            "itemName":"Cheesecake",
+            "imgUrl":"https://images.unsplash.com/photo-1508737804141-4c3b688e2546?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+            "alt":"Cheesecake image",
+            "time":"30 mins"
+        },
+        {
+            "index":5,
+            "itemName":"Chicken wings",
+            "imgUrl":"https://images.unsplash.com/photo-1517984055083-fd6e1e788e54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "alt":"Chicken wings image",
+            "time":"15 mins"
+        },
+        {
+            "index":6,
+            "itemName":"Biryani",
+            "imgUrl":"https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "alt":"Biryani image",
+            "time":"15 mins"
+        }
+    ]
+}

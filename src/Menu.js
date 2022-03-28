@@ -3,8 +3,8 @@ export default function Menu(){
     return(
         <div className=" p-5 px-10  bg-slate-50 " >
             <div className="text-right" >
-                <button type="button" className="border-red-500 text-red-500 border-2  rounded-2xl py-1 px-2 m-2 text-sm ">Login</button>
-                <button type="button" className="border-red-500 text-red-500 border-2  rounded-2xl py-1 px-2 m-2 text-sm ">Signup</button>
+                <button type="button" className="border-red-500 text-red-500 border-2  rounded-2xl py-1 px-2 m-2 text-sm hover:bg-red-500 hover:text-gray-200 ">Login</button>
+                <button type="button" className="border-red-500 text-red-500 border-2  rounded-2xl py-1 px-2 m-2 text-sm hover:bg-red-500 hover:text-gray-200 ">Signup</button>
             </div>
             <div className="py-4" >
                 <h1 className=" text-5xl " >Recipes</h1>

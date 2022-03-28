@@ -16,7 +16,7 @@ export default function Navbar(){
                     <li className="text-sm m-2" >
                         <a href="/" >
                             <span className="mr-2 " >About</span>
-                            <i class="fa fa-address-card"></i>
+                            <i className="fa fa-address-card"></i>
                         </a>
                     </li>
                     <li className="text-sm m-2" >
